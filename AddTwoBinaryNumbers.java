@@ -5,7 +5,7 @@
 import java.util.*;
 import java.io.*;
 
-class AddTwoBunaryNumbers {
+class AddTwoBinaryNumbers {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
 
